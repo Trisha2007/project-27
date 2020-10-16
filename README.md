@@ -1,1 +1,1 @@
-MasterBolierPlate
+MasterBoilerPlate
